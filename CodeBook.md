@@ -1,12 +1,12 @@
 ##ID Fields
 
-*subject - The participant ("subject") ID
-*activity - The label of the activity performed when the corresponding measurements were taken
+* subject - The participant ("subject") ID
+* activity - The label of the activity performed when the corresponding measurements were taken
 ##Extracted Feature Fields
 
-tBodyAcc-mean()-X (column 1)
-tBodyAcc-mean()-Y (column 2)
-tBodyAcc-mean()-Z (column 3)
+* tBodyAcc-mean()-X (column 1)
+* tBodyAcc-mean()-Y (column 2)
+* tBodyAcc-mean()-Z (column 3)
 tBodyAcc-std()-X (column 4)
 tBodyAcc-std()-Y (column 5)
 tBodyAcc-std()-Z (column 6)
